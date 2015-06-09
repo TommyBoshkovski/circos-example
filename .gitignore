@@ -4,4 +4,7 @@
 # PNG images
 *.png
 
+# SVG images
+*.svg
+
 
