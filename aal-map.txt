@@ -13,9 +13,9 @@ frontal FSupMed 255 204 153
 frontal FMidOrb2 255 204 204
 frontal Rect 255 255 51
 frontal Ins 255 255 153
-cingulate Ant 0 255 204
+cingulate CiAnt 0 255 204
 cingulate CiMid 102 255 255
-cingulate Post 0 255 255
+cingulate CiPost 0 255 255
 temporal Hip 102 0 102
 temporal ParaHip 153 0 153
 temporal Amyg 153 0 204
@@ -26,7 +26,7 @@ occipital OcSup 153 153 255
 occipital OcMid 153 204 255
 occipital OcInf 204 204 255
 temporal Fusi 51 51 255
-parietal PostC 51 255 51
+parietal PaPostC 51 255 51
 parietal PaSup 102 153 0
 parietal PaInf 153 204 0
 parietal SupraMar 153 255 0
