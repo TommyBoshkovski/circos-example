@@ -1,0 +1,2 @@
+frontal-r 100 199 temporal-l 0 99 type=1,score=0.500000
+frontal-l 1400 1499 bg-r 0 99 type=1,score=0.900000

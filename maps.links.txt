@@ -1,0 +1,3 @@
+# hemisphere parcelation hemisphere parcelation connection_type connection_score
+r FSup l Hip 1 0.5
+l Ins r Caud 1 0.9
